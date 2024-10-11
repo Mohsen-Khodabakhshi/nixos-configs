@@ -1,5 +1,3 @@
-{ config, pkgs, ... }:
-
 {
   programs.proxychains.enable = true;
   programs.proxychains.proxies.prx1.enable = true;
