@@ -5,7 +5,6 @@
   nekoray
   lshw
   git
-  jetbrains-toolbox
   vscode
   ];
 }
