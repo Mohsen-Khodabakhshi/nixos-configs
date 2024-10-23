@@ -6,5 +6,6 @@
   lshw
   git
   vscode
+  telegram-desktop
   ];
 }
