@@ -7,5 +7,7 @@
   git
   vscode
   telegram-desktop
+  nerdfonts
+  zsh
   ];
 }
